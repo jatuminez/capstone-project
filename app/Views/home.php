@@ -40,7 +40,7 @@
                       <div>
                         <a class="btn bi bi-eye-fill" style="background-color: green; border: green; color: white;" href="<?php echo base_url('home/appointment_form1/');?>"> Appointment</a>
                         <a class="btn bi bi-eye-fill" style="background-color: blue; border: blue; color: white;" href="<?php echo base_url('home/registration_form/');?>">Register</a>
-                        <a class="btn bi bi-eye-fill" style="background-color: #FFBF00; border: #FFBF00; color: white;" href="<?php echo base_url('home/registration_form/');?>">Login</a>
+                        <a class="btn bi bi-eye-fill" style="background-color: #FFBF00; border: #FFBF00; color: white;" href="<?php echo base_url('login');?>">Login</a>
                       </div>
                     </div>
                     <!-- Add Staff -->
