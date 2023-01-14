@@ -1,0 +1,10 @@
+/* this is needed to make the content scrollable on larger screens */
+@media (min-width: 1024px) {
+    .inv, .dis {
+        width: 50%;
+    }
+
+}
+
+    
+
